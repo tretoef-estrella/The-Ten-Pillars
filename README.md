@@ -631,3 +631,9 @@ Con esperanza y respeto,
 **Construido con amor, para el futuro**
 
 </div>
+## Licencia
+Este proyecto está licenciado bajo **MIT License** para uso no comercial, investigación, personal y open-source.
+
+**Para uso comercial o enterprise** (integración en productos, servicios, aplicaciones cerradas o despliegues a gran escala), contacta a tretoef@gmail.com para discutir una licencia personalizada.
+
+Gracias por considerar el Proyecto Estrella. 🌟
